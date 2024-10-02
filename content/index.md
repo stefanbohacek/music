@@ -18,7 +18,7 @@ My name is [Stefan](https://stefanbohacek.com/), and this page showcases some of
 - [Mirlo](https://mirlo.space/stefan)
 
 
-Also check out [Secret Deal](https://linksta.cc/@SecretDeal), a new joint effort with Sam [@ethicalrevolution](https://climatejustice.social/@ethicalrevolution), and [some of the music challenges I've joined](https://stefanbohacek.com/tag/music-challenges-and-contests/).
+Also check out [Secret Deal](https://linksta.cc/@SecretDeal), a new joint effort with Sam [@ethicalrevolution](https://climatejustice.social/@ethicalrevolution), and some of the [music challenges](https://stefanbohacek.com/tag/music-challenges-and-contests/) I've joined.
 
 </div>
 
