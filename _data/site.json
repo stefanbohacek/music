@@ -1,6 +1,6 @@
 {
-  "title": "Site title",
-  "description": "Project description",
-  "url": "URL",
-  "thumbnail_alt": "ALT_TEXT"
+  "title": "Stefan's Music Portfolio",
+  "description": "A sample of Stefan Bohacek's music work.",
+  "url": "https://music.stefanbohacek.com/",
+  "thumbnail_alt": "A set of three musical instruments: Akai MPK Mini mk3 MIDI keyboard with 25 keys, 8 drum pads, 8 knobs, a 4-way joystick, and a few additional buttons. Then there is the M-Audio Keystation 49 with 49 keys, volume fader, mod and pitch wheel, and a few more buttons. And finally, Akai MIDImix with a bunch of knobs, faders, and buttons aligned in grids."
 }
