@@ -27,7 +27,7 @@ Also check out [Secret Deal](https://linksta.cc/@SecretDeal), a new joint effort
     <div class="row mt-5">
       <div class="col-6">
         <a href="{{ song.links[0].url }}" class="text-body-secondary">
-          <img class="cover-art img-fluid w-100" src="/assets/covers/{{ song.id }}.png" alt="Album cover" role="presentation">
+          <img loading="lazy" width="800" height="800" class="cover-art img-fluid w-100" src="/assets/covers/{{ song.id }}.png" alt="Album cover" role="presentation">
         </a>
       </div>
       <div class="col-6">
