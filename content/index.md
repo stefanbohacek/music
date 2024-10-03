@@ -17,39 +17,34 @@ My name is [Stefan](https://stefanbohacek.com/), and this page showcases some of
 - [Bandwagon](https://bandwagon.fm/@stefan-bohacek)
 - [Mirlo](https://mirlo.space/stefan)
 
-
 Also check out [Secret Deal](https://linksta.cc/@SecretDeal), a new joint effort with Sam [@ethicalrevolution](https://climatejustice.social/@ethicalrevolution), and some of the [music challenges](https://stefanbohacek.com/tag/music-challenges-and-contests/) I've joined.
 
 </div>
 
 <div class="container-fluid my-5">
-<div class="row mt-5">
-  <div class="col-6 col-md-3">
-    <iframe loading="lazy" width="100%" height="300" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/1874636949&amp;color=%23ff5500&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false&amp;show_teaser=true&amp;visual=true"></iframe>
-  </div>
-  <div class="col-6 col-md-3">
-    <iframe loading="lazy" width="100%" height="300" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/1811118339&amp;color=%23ff5500&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false&amp;show_teaser=true&amp;visual=true"></iframe>
-  </div>
-  <div class="col-6 col-md-3">
-    <iframe loading="lazy" width="100%" height="300" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/1868541846&amp;color=%23ff5500&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false&amp;show_teaser=true&amp;visual=true"></iframe>
-  </div>
-  <div class="col-6 col-md-3">
-    <iframe loading="lazy" width="100%" height="300" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/1139134969&amp;color=%23ff5500&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false&amp;show_teaser=true&amp;visual=true"></iframe>
-  </div>
-</div>
-<div class="row">
-  <div class="col-6 col-md-3">
-  <iframe loading="lazy" width="100%" height="300" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/1239277402&amp;color=%23ff5500&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false&amp;show_teaser=true&amp;visual=true"></iframe>
-  </div>
-  <div class="col-6 col-md-3">
-  <iframe loading="lazy" width="100%" height="300" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/1299753493&amp;color=%23ff5500&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false&amp;show_teaser=true&amp;visual=true"></iframe>
-  </div>
-  <div class="col-6 col-md-3">
-  <iframe loading="lazy" width="100%" height="300" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/1234969018&amp;color=%23ff5500&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false&amp;show_teaser=true&amp;visual=true"></iframe>
-  </div>
-  <div class="col-6 col-md-3">
-  <iframe loading="lazy" width="100%" height="300" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/972413671&amp;color=%23ff5500&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false&amp;show_teaser=true&amp;visual=true"></iframe>
-  </div>
-</div>
-
+  <div class="row mt-5">
+  {% for song in music %}<div class="col-12 col-md-6 col-lg-6 col-xl-3 position-relative">
+    <div class="row mt-5">
+      <div class="col-6">
+        <a href="{{ song.links[0].url }}" class="text-body-secondary">
+          <img class="cover-art img-fluid w-100" src="/assets/covers/{{ song.id }}.png" alt="Album cover" role="presentation">
+        </a>
+      </div>
+      <div class="col-6">
+        <p>
+          <strong>{{ song.title }}</strong>
+        </p>
+        <ul class="mt-3">
+          {% for link in song.links %}<li>
+            <a class="fs-9" href="{{ link.url }}">{{ link.title }}</a>
+          </li>{% endfor %}
+        </ul>
+      </div>
+    </div>
+    <div class="position-absolutex bottom-0">
+      <audio controls class="w-100 mt-4">
+        <source src="/assets/audio/{{ song.id }}.mp3" />
+      </audio>
+    </div>
+  </div>{% endfor %}
 </div>
