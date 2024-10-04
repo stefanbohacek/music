@@ -7,17 +7,13 @@ import pauseOtherPlayers from "./modules/pauseOtherPlayers.js";
 // import addParagraphIconToHeaders from "./modules/addParagraphIconToHeaders.js";
 
 onReady(() => {
-  // highlightCode();
-  // pauseOtherPlayers();
-  backToTop();
-  // addParagraphIconToHeaders();
-  matomo();
-  // konami();
+  console.log("DEBUG!");
 
   document.addEventListener(
     "play",
     (e) => {
       let audios = document.getElementsByTagName("audio");
+      console.log(e.target, audios)
       for (let i = 0, len = audios.length; i < len; i++) {
         if (audios[i] != e.target) {
           audios[i].pause();
@@ -26,4 +22,11 @@ onReady(() => {
     },
     true
   );
+
+  // highlightCode();
+  // pauseOtherPlayers();
+  backToTop();
+  // addParagraphIconToHeaders();
+  matomo();
+  // konami();
 });
