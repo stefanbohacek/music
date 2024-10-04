@@ -28,4 +28,6 @@ My current setup primarily consists of:
 - Unique and free instruments from [Pianobook](https://www.pianobook.co.uk/).
 - And [Splice](https://splice.com/) is my go-to place for samples and loops.
 
+Also check out some of my [favorite resources for learning to make music](https://stefanbohacek.com/blog/resources-for-composers-and-music-producers/).
+
 </div>
