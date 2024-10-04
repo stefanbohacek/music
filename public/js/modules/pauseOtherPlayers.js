@@ -1,1 +1,1 @@
-export default()=>{console.log("pauseOtherPlayers"),setTimeout((()=>{document.addEventListener("play",(e=>{let t=document.getElementsByTagName("audio");console.log(e.target,t);for(let o=0,a=t.length;o<a;o++)t[o]!=e.target&&t[o].pause()}),!0)}),300)};//# sourceMappingURL=pauseOtherPlayers.js.map
+export default()=>{document.addEventListener("play",(e=>{let t=document.getElementsByTagName("audio");console.log(e.target,t);for(let a=0,l=t.length;a<l;a++)t[a]!=e.target&&t[a].pause()}),!0)};//# sourceMappingURL=pauseOtherPlayers.js.map
