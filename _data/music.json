@@ -2,6 +2,7 @@
   {
     "title": "Don't Sweat It",
     "id": "dont-sweat-it",
+    "cover_art_description": "The title of the album/song 'Don't Sweat It` superimposed over a blurry, desaturated photo of a disco ball.",
     "links": [
       {
         "title": "SoundCloud",
@@ -24,6 +25,7 @@
   {
     "title": "Secret Places",
     "id": "secret-places",
+    "cover_art_description": "A bunch of hanging light bulbs viewed from a slightly lowered angle. The title of the song/album is below.",
     "links": [
       {
         "title": "SoundCloud",
@@ -46,6 +48,7 @@
   {
     "title": "Flames",
     "id": "flames",
+    "cover_art_description": "Barely visible hands hovering and reaching out, as if over a fire that's not in the view, eluminated by red light. The title of the song/album 'Flames' is written in a paint brush-style font.",
     "links": [
       {
         "title": "SoundCloud",
@@ -56,6 +59,7 @@
   {
     "title": "Nothing But Me",
     "id": "nothing-but-me",
+    "cover_art_description": "A sketch drawing of an electric guitar on a black background.",
     "links": [
       {
         "title": "SoundCloud",
@@ -66,6 +70,7 @@
   {
     "title": "I Love Pressure",
     "id": "i-love-pressure",
+    "cover_art_description": "A sketch drawing of an upright piano on a black background.",
     "links": [
       {
         "title": "SoundCloud",
@@ -76,6 +81,7 @@
   {
     "title": "Narrow Escape",
     "id": "narrow-escape",
+    "cover_art_description": "A sketch drawing of a French horn on a black background.",
     "links": [
       {
         "title": "SoundCloud",
@@ -86,6 +92,7 @@
   {
     "title": "More Than Twice",
     "id": "more-than-twice",
+    "cover_art_description": "A sketch drawing of flat hand drum with a stick on a black background.",
     "links": [
       {
         "title": "SoundCloud",
@@ -96,6 +103,7 @@
   {
     "title": "Scared to Death but Saddling up Anyway",
     "id": "scared-to-death-but-saddling-up-anyway",
+    "cover_art_description": "A sketch drawing of a French horn on a black background.",
     "links": [
       {
         "title": "SoundCloud",

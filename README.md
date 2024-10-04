@@ -17,6 +17,7 @@ Music data is saved inside `_data/music.json` in the following format:
 {
   "title": "Secret Places",
   "id": "secret-places",
+  "cover_art_description": "A bunch of hanging light bulbs viewed from a slightly lowered angle. The title of the song/album is below.",
   "links": [
     {
       "title": "SoundCloud",
@@ -42,3 +43,5 @@ The `id` of the song will be used to fetch the MP3 song file and cover art.
 
 - `/assets/covers/{{ song.id }}.png`
 - `/assets/audio/{{ song.id }}.mp3`
+
+`cover_art_description` is optional, but [highly recommended](https://alttexthalloffame.org/).
