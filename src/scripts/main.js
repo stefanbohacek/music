@@ -8,9 +8,9 @@ import pauseOtherPlayers from "./modules/pauseOtherPlayers.js";
 
 onReady(() => {
   // highlightCode();
+  pauseOtherPlayers();
   backToTop();
   // addParagraphIconToHeaders();
   matomo();
-  pauseOtherPlayers();
   // konami();
 });
