@@ -1,1 +1,1 @@
-export default()=>{document.addEventListener("play",(e=>{let t=document.getElementsByTagName("audio");console.log(e.target,t);for(let a=0,l=t.length;a<l;a++)t[a]!=e.target&&t[a].pause()}),!0)};//# sourceMappingURL=pauseOtherPlayers.js.map
+export default()=>{document.addEventListener("play",(e=>{let t=document.getElementsByTagName("audio");for(let a=0,d=t.length;a<d;a++)t[a]!=e.target&&t[a].pause()}),!0)};//# sourceMappingURL=pauseOtherPlayers.js.map
