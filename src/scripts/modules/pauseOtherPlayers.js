@@ -1,4 +1,5 @@
 export default () => {
+  console.log("pauseOtherPlayers");
   setTimeout(() => {
     document.addEventListener(
       "play",
