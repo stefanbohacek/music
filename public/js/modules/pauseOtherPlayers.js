@@ -1,1 +1,1 @@
-export default()=>{setTimeout((()=>{document.addEventListener("play",(e=>{let t=document.getElementsByTagName("audio");for(let a=0,d=t.length;a<d;a++)t[a]!=e.target&&t[a].pause()}),!0)}),300)};//# sourceMappingURL=pauseOtherPlayers.js.map
+export default()=>{setTimeout((()=>{document.addEventListener("play",(e=>{let t=document.getElementsByTagName("audio");console.log(e.target,t);for(let a=0,o=t.length;a<o;a++)t[a]!=e.target&&t[a].pause()}),!0)}),300)};//# sourceMappingURL=pauseOtherPlayers.js.map
