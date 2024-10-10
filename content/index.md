@@ -8,9 +8,11 @@ eleventyNavigation:
 
 <div class="container my-5">
 
-# Hi there 👋
+<h1 class="text-start">Hi there 👋</h1>
 
-My name is [Stefan](https://stefanbohacek.com/), and this page showcases some of my music. Here's where you can find more:
+I'm [Stefan](https://stefanbohacek.com/), a hobby music producer and composer currently living in New Jersey.
+
+Here's where you can find my work:
 
 - [SoundCloud](https://soundcloud.com/stefanbohacek)
 - [Bandcamp](https://stefanbohacek.bandcamp.com/)
