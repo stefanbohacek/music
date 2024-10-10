@@ -8,7 +8,7 @@ eleventyNavigation:
 
 <div class="container my-5">
 
-<h1 class="text-start mb-5">Hi there 👋</h1>
+<h1 class="text-center mb-5">Hi there 👋</h1>
 
 I'm [Stefan](https://stefanbohacek.com/), a hobby music producer and composer currently living in New Jersey.
 
