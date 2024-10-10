@@ -7,7 +7,7 @@ eleventyNavigation:
   order: 2
 ---
 
-# {{ title }}
+<h1 class="text-start mb-5">{{ title }}</h1>
 
 <div class="text-center">
   <img class="img-fluid" src="/assets/images/gear.png" alt="A set of three musical instruments: Akai MPK Mini mk3 MIDI keyboard with 25 keys, 8 drum pads, 8 knobs, a 4-way joystick, and a few additional buttons. Then there is the M-Audio Keystation 49 with 49 keys, volume fader, mod and pitch wheel, and a few more buttons. And finally, Akai MIDImix with a bunch of knobs, faders, and buttons aligned in grids." title="Akai MPK Mini mk3, M-Audio Keystation 49, and Akai MIDImix" />
