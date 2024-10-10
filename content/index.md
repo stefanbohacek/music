@@ -50,7 +50,7 @@ Also check out [Secret Deal](https://linksta.cc/@SecretDeal), a new joint effort
         </ul>
       </div>
     </div>
-    <div class="position-absolutex bottom-0">
+    <div class="position-absolutex bottom-0 mt-3">
       <audio controls class="w-100 mt-4">
         <source src="/assets/audio/{{ song.id }}.mp3" />
       </audio>
