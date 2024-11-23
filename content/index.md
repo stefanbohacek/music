@@ -19,7 +19,7 @@ Here's where you can find my work:
 - [Bandwagon](https://bandwagon.fm/@stefan-bohacek)
 - [Mirlo](https://mirlo.space/stefan)
 
-Also check out [Secret Deal](https://linksta.cc/@SecretDeal), a new joint effort with Sam [@ethicalrevolution](https://climatejustice.social/@ethicalrevolution), and some of the [music challenges](https://stefanbohacek.com/tag/music-challenges-and-contests/) I've joined.
+Also check out [Secret Deal](https://secretde.al/), a new joint effort with Sam [@ethicalrevolution](https://climatejustice.social/@ethicalrevolution), and some of the [music challenges](https://stefanbohacek.com/tag/music-challenges-and-contests/) I've joined.
 
 </div>
 
