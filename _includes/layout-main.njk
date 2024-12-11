@@ -38,11 +38,11 @@ title: Home
         toggleDarkMode(window.matchMedia('(prefers-color-scheme: dark)').matches);
       });
     </script>
-    <header class="d-flex flex-wrap align-items-center">
+    <header class="d-flex flex-wrap align-items-start">
       <nav class="nav w-100">
-        <div class="container-fluid p-2 bg-body-tertiary d-flex flex-wrap align-items-center">
+        <div class="container py-2 px-0 d-flex flex-wrap align-items-start">
           {% set navPages = collections.all | eleventyNavigation %}
-          <ul class="nav mx-auto ">
+          <ul class="nav  ">
             {% for item in navPages %}
               <li class="nav-item">
                 <a href="{{ item.url }}" {{ helpers.getLinkActiveState(item.url, page.url) | safe }}>{{ item.key }}</a>
@@ -56,7 +56,7 @@ title: Home
       </nav>
     </header>
     <main class="flex-shrink-0 mt-3">
-      <div class="container-fluid">
+      <div class="container-fluid p-1">
         {{ content | safe }}
       </div>
     </main>

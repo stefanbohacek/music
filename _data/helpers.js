@@ -11,9 +11,9 @@ module.exports = {
     let response = "";
 
     if (itemUrl === pageUrl) {
-      response = 'class="nav-link link-secondary active fw-bold" aria-current="page"';
+      response = 'class="nav-link ps-3 link-secondary active fw-bold" aria-current="page"';
     } else {
-      response = 'class="nav-link link-secondary"';
+      response = 'class="nav-link ps-3 link-secondary"';
     }
 
     return response;
