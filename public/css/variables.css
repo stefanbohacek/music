@@ -1,1 +1,1 @@
-:root{--bs-heading-color:#424242!important}/*# sourceMappingURL=variables.css.map */
+:root{--bs-heading-color:#424242!important;--bs-link-color-rgb:#424242!important}body[data-bs-theme=light] a{color:#424242}body[data-bs-theme=light] a:hover{color:#000}body[data-bs-theme=dark] a{color:rgba(173,181,189,.749)}body[data-bs-theme=dark] a:hover{color:#fff}/*# sourceMappingURL=variables.css.map */

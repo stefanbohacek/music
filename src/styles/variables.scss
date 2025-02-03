@@ -1,3 +1,21 @@
 :root {
   --bs-heading-color: #424242 !important;
+  --bs-link-color-rgb: #424242 !important;
+}
+
+
+
+a {
+  body[data-bs-theme="light"] & {
+    color: #424242;
+    &:hover {
+      color: black;
+    }
+  }
+  body[data-bs-theme="dark"] & {
+    color: #adb5bdbf;
+    &:hover {
+      color: white;
+    }
+  }
 }

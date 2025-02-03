@@ -10,16 +10,16 @@ eleventyNavigation:
 
 <h1 class="mb-5 text-body">Hi there 👋</h1>
 
-I'm [Stefan](https://stefanbohacek.com/){.text-body} <span class="text-muted">[stefn]</span>, a hobby music producer and composer currently living in New Jersey. You might've heard me on [Radio Free Fedi](https://radiofreefedi.net/){.text-body}, [BlowUpRadio.com](https://blowupradio.com/den/2025/020325.html){.text-body}, [Audio Interface's *Forgotten Futures*](https://www.audiointerface.org/shows/forgotten-futures/20241201/){.text-body}, or [Ether Diver's *Other People's Music* mixtape ](https://www.etherdiver.com/2024/05/17/opm-four-flavors-of-electronic-and-one-weird-trip/){.text-body}.
+I'm [Stefan](https://stefanbohacek.com/) <span class="text-muted">[stefn]</span>, a hobby music producer and composer currently living in New Jersey. You might've heard me on [Radio Free Fedi](https://radiofreefedi.net/), [BlowUpRadio.com](https://blowupradio.com/den/2025/020325.html), [Audio Interface's *Forgotten Futures*](https://www.audiointerface.org/shows/forgotten-futures/20241201/), or [Ether Diver's *Other People's Music* mixtape ](https://www.etherdiver.com/2024/05/17/opm-four-flavors-of-electronic-and-one-weird-trip/).
 
 Here's where you can find my work:
 
-- [SoundCloud](https://soundcloud.com/stefanbohacek){.text-body}
-- [Bandcamp](https://stefanbohacek.bandcamp.com/){.text-body}
-- [Bandwagon](https://bandwagon.fm/@stefan-bohacek){.text-body}
-- [Mirlo](https://mirlo.space/stefan){.text-body}
+- [SoundCloud](https://soundcloud.com/stefanbohacek)
+- [Bandcamp](https://stefanbohacek.bandcamp.com/)
+- [Bandwagon](https://bandwagon.fm/@stefan-bohacek)
+- [Mirlo](https://mirlo.space/stefan)
 
-Also check out [Secret Deal](https://secretde.al/){.text-body}, a new joint effort with Sam [@ethicalrevolution](https://climatejustice.social/@ethicalrevolution){.text-body}, and some of the [music challenges](https://stefanbohacek.com/tag/music-challenges-and-contests/){.text-body} I've joined.
+Also check out [Secret Deal](https://secretde.al/), a new joint effort with Sam [@ethicalrevolution](https://climatejustice.social/@ethicalrevolution), and some of the [music challenges](https://stefanbohacek.com/tag/music-challenges-and-contests/) I've joined.
 
 </div>
 
