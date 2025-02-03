@@ -26,34 +26,38 @@ Also check out [Secret Deal](https://secretde.al/), a new joint effort with Sam 
 <div class="container-fluid my-5">
   <div class="row mt-5">
   {% for song in music %}<div class="col-12 col-md-6 col-lg-6 col-xl-3 position-relative">
-    <div class="row mt-5">
-      <div class="col-6">
-        <a href="{{ song.links[0].url }}" class="text-body">
-          <img
-            loading="lazy"
-            width="800"
-            height="800"
-            class="cover-art img-fluid w-100"
-            src="/assets/covers/{{ song.id }}.png"
-          {% if song.cover_art_description %}alt="{{ song.cover_art_description }}"{% else %}alt="Album cover" role="presentation"{% endif %}
-          >
-        </a>
+    <div class="container-fluid">
+    <div class="bg-body-tertiary px-4 py-2 m-2 rounded-5">
+        <div class="row mt-3">
+          <div class="col-6">
+            <a href="{{ song.links[0].url }}" class="text-body">
+              <img
+                loading="lazy"
+                width="800"
+                height="800"
+                class="cover-art img-fluid w-100"
+                src="/assets/covers/{{ song.id }}.png"
+              {% if song.cover_art_description %}alt="{{ song.cover_art_description }}"{% else %}alt="Album cover" role="presentation"{% endif %}
+              >
+            </a>
+          </div>
+          <div class="col-6">
+            <p>
+              <strong>{{ song.title }}</strong>
+            </p>
+            <ul class="mt-3">
+              {% for link in song.links %}<li>
+                <a class="fs-9 text-body" href="{{ link.url }}">{{ link.title }}</a>
+              </li>{% endfor %}
+            </ul>
+          </div>
+        </div>
+        <div class="position-absolutex bottom-0 mt-3">
+          <audio controls class="w-100 mt-4">
+            <source src="/assets/audio/{{ song.id }}.mp3" />
+          </audio>
+        </div>
       </div>
-      <div class="col-6">
-        <p>
-          <strong>{{ song.title }}</strong>
-        </p>
-        <ul class="mt-3">
-          {% for link in song.links %}<li>
-            <a class="fs-9 text-body" href="{{ link.url }}">{{ link.title }}</a>
-          </li>{% endfor %}
-        </ul>
-      </div>
-    </div>
-    <div class="position-absolutex bottom-0 mt-3">
-      <audio controls class="w-100 mt-4">
-        <source src="/assets/audio/{{ song.id }}.mp3" />
-      </audio>
     </div>
   </div>{% endfor %}
 </div>
