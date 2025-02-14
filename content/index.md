@@ -10,7 +10,7 @@ eleventyNavigation:
 
 <h1 class="mb-5 text-body">Hi there 👋</h1>
 
-I'm [Stefan](https://stefanbohacek.com/) <span class="text-muted">[stefn]</span>, a hobby music producer and composer currently living in New Jersey. You might've heard me on [Radio Free Fedi](https://radiofreefedi.net/), [BlowUpRadio.com](https://blowupradio.com/den/2025/020325.html), [Audio Interface's *Forgotten Futures*](https://www.audiointerface.org/shows/forgotten-futures/20241201/), or [Ether Diver's *Other People's Music* mixtape ](https://www.etherdiver.com/2024/05/17/opm-four-flavors-of-electronic-and-one-weird-trip/).
+I'm [Stefan](https://stefanbohacek.com/) <span class="text-muted">[stefn]</span>, a hobby music producer and composer currently living in New Jersey. You might've heard me on [Radio Free Fedi](https://radiofreefedi.net/), the [NHAM Mixtape #6](https://nham.co.uk/2024/11/november-heralds-audio-masters-nham-mixtape-6/), [BlowUpRadio.com](https://blowupradio.com/den/2025/020325.html), [Audio Interface's *Forgotten Futures*](https://www.audiointerface.org/shows/forgotten-futures/20241201/), or [Ether Diver's *Other People's Music* mixtape ](https://www.etherdiver.com/2024/05/17/opm-four-flavors-of-electronic-and-one-weird-trip/).
 
 Here's where you can find my work:
 
