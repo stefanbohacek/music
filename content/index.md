@@ -41,7 +41,7 @@ Here's where you can find his work online.
   <div class="row mt-5">
   {% for song in music %}<div class="col-12 col-md-6 col-lg-6 col-xl-3 position-relative">
     <div class="container-fluid ps-0">
-    <div class="bg-body-tertiary px-4 py-2 m-2 rounded-5">
+    <div class="bg-body-tertiary px-4 py-2 m-0 rounded-5">
         <div class="row mt-3">
           <div class="col-6">
             <a href="{{ song.links[0].url }}" class="text-body">
