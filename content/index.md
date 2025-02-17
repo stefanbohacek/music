@@ -55,7 +55,7 @@ Here's where you can find his work online.
               >
             </a>
           </div>
-          <div class="col-6">
+          <div class="col-6 ps-0">
             <p>
               <strong>{{ song.title }}</strong>
             </p>
