@@ -25,7 +25,9 @@ Stefan is also a member of [Secret Deal](https://secretde.al/), a joint effort w
 
 <h2 id="music" class="fs-1 my-5 text-body"><a href="#music">Stefan's music</a></h2>
 
-Here's where you can find Stefan's music online.
+Stefan draws heavy inspiration from disco, R'n'B, and hip-hop, resulting in danceable grooves, sometimes with a tint of melancholy. He's also composed electronic and orchestral soundtrack music.
+
+Here's where you can find his work online.
 
 - [SoundCloud](https://soundcloud.com/stefanbohacek)
 - [Bandcamp](https://stefanbohacek.bandcamp.com/)
