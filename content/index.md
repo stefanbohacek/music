@@ -59,7 +59,7 @@ Here's where you can find his work online.
             <p>
               <strong>{{ song.title }}</strong>
             </p>
-            <ul class="mt-3">
+            <ul class="mt-3 ps-4">
               {% for link in song.links %}<li>
                 <a class="fs-9 text-body" href="{{ link.url }}">{{ link.title }}</a>
               </li>{% endfor %}
