@@ -6,19 +6,19 @@
     "links": [
       {
         "title": "SoundCloud",
-        "url": "https://soundcloud.com/stefanbohacek/get-down?in=stefanbohacek/sets/mixtape"        
+        "url": "https://soundcloud.com/stefanbohacek/get-down?in=stefanbohacek/sets/mixtape"
       },
       {
         "title": "Bandcamp",
-        "url": "https://stefanbohacek.bandcamp.com/track/get-down"        
+        "url": "https://stefanbohacek.bandcamp.com/track/get-down"
       },
       {
         "title": "Bandwagon",
-        "url": "https://bandwagon.fm/67b55b4c594e0cd573b48e62"        
+        "url": "https://bandwagon.fm/67b55b4c594e0cd573b48e62"
       },
       {
         "title": "Mirlo",
-        "url": "https://mirlo.space/stefan/release/get-down"        
+        "url": "https://mirlo.space/stefan/release/get-down"
       }
     ]
   },
@@ -29,19 +29,19 @@
     "links": [
       {
         "title": "SoundCloud",
-        "url": "https://soundcloud.com/stefanbohacek/dont-sweat-it?in=stefanbohacek/sets/mixtape"        
+        "url": "https://soundcloud.com/stefanbohacek/dont-sweat-it?in=stefanbohacek/sets/mixtape"
       },
       {
         "title": "Bandcamp",
-        "url": "https://stefanbohacek.bandcamp.com/track/dont-sweat-it"        
+        "url": "https://stefanbohacek.bandcamp.com/track/dont-sweat-it"
       },
       {
         "title": "Bandwagon",
-        "url": "https://bandwagon.fm/66b15d8c137a3fc2e6d862cb"        
+        "url": "https://bandwagon.fm/66b15d8c137a3fc2e6d862cb"
       },
       {
         "title": "Mirlo",
-        "url": "https://mirlo.space/stefan/release/dont-sweat-it"        
+        "url": "https://mirlo.space/stefan/release/dont-sweat-it"
       }
     ]
   },
@@ -52,19 +52,19 @@
     "links": [
       {
         "title": "SoundCloud",
-        "url": "https://soundcloud.com/stefanbohacek/secret-places?in=stefanbohacek/sets/mixtape"        
+        "url": "https://soundcloud.com/stefanbohacek/secret-places?in=stefanbohacek/sets/mixtape"
       },
       {
         "title": "Bandcamp",
-        "url": "https://stefanbohacek.bandcamp.com/track/secret-places"        
+        "url": "https://stefanbohacek.bandcamp.com/track/secret-places"
       },
       {
         "title": "Bandwagon",
-        "url": "https://bandwagon.fm/66e38b044c86ea48ed036c27"        
+        "url": "https://bandwagon.fm/66e38b044c86ea48ed036c27"
       },
       {
         "title": "Mirlo",
-        "url": "https://mirlo.space/stefan/release/secret-places"        
+        "url": "https://mirlo.space/stefan/release/secret-places"
       }
     ]
   },
@@ -75,7 +75,7 @@
     "links": [
       {
         "title": "SoundCloud",
-        "url": "https://soundcloud.com/stefanbohacek/flames?in=stefanbohacek/sets/mixtape"        
+        "url": "https://soundcloud.com/stefanbohacek/flames?in=stefanbohacek/sets/mixtape"
       }
     ]
   },
@@ -86,7 +86,11 @@
     "links": [
       {
         "title": "SoundCloud",
-        "url": "https://soundcloud.com/stefanbohacek/i-love-pressure?in=stefanbohacek/sets/piano"        
+        "url": "https://soundcloud.com/stefanbohacek/i-love-pressure?in=stefanbohacek/sets/piano"
+      },
+      {
+        "title": "More piano works",
+        "url": "https://soundcloud.com/stefanbohacek/sets/piano"
       }
     ]
   },
@@ -97,7 +101,11 @@
     "links": [
       {
         "title": "SoundCloud",
-        "url": "https://soundcloud.com/stefanbohacek/narrow-escape?in=stefanbohacek/sets/orchestral-cinematic-instrumental"        
+        "url": "https://soundcloud.com/stefanbohacek/narrow-escape?in=stefanbohacek/sets/orchestral-cinematic-instrumental"
+      },
+      {
+        "title": "More soundtracks",
+        "url": "https://soundcloud.com/stefanbohacek/sets/orchestral-cinematic-instrumental"
       }
     ]
   },
@@ -108,7 +116,7 @@
     "links": [
       {
         "title": "SoundCloud",
-        "url": "https://soundcloud.com/stefanbohacek/more-than-twice?in=stefanbohacek/sets/orchestral-cinematic-instrumental"        
+        "url": "https://soundcloud.com/stefanbohacek/more-than-twice?in=stefanbohacek/sets/orchestral-cinematic-instrumental"
       }
     ]
   },
@@ -119,7 +127,7 @@
     "links": [
       {
         "title": "SoundCloud",
-        "url": "https://soundcloud.com/stefanbohacek/scared-to-death-but-saddling-up-anyway?in=stefanbohacek/sets/orchestral-cinematic-instrumental"        
+        "url": "https://soundcloud.com/stefanbohacek/scared-to-death-but-saddling-up-anyway?in=stefanbohacek/sets/orchestral-cinematic-instrumental"
       }
     ]
   }
