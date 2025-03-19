@@ -25,7 +25,7 @@ Stefan is also a member of [Secret Deal](https://secretde.al/), a joint effort w
 
 <h2 id="music" class="fs-1 my-5 text-body"><a href="#music">Stefan's music</a></h2>
 
-Stefan draws heavy inspiration from disco, R'n'B, and hip-hop, resulting in danceable grooves, sometimes with a tint of melancholy. He's also composed electronic and orchestral soundtrack music.
+Stefan draws heavy inspiration from disco, R'n'B, and hip-hop, resulting in danceable grooves, sometimes with a tint of melancholy. He's also composed electronic and orchestral [soundtrack music](https://soundcloud.com/stefanbohacek/sets/orchestral-cinematic-instrumental).
 
 Here's where you can find his work online.
 
