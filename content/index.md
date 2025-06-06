@@ -38,7 +38,7 @@ Here's where you can find his work online.
 
 - [SoundCloud](https://soundcloud.com/stefanbohacek)
 - [Bandcamp](https://stefanbohacek.bandcamp.com/)
-- [Bandwagon](https://bandwagon.fm/@stefan-bohacek)
+- [Bandwagon](https://bandwagon.fm/@stefanbohacek)
 - [Mirlo](https://mirlo.space/stefan)
 
 
