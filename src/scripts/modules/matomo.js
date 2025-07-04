@@ -14,11 +14,11 @@ export default async () => {
 
     audioElements.forEach((audio) => {
       audio.addEventListener("play", () => {
-        _paq.push(["trackEvent", "Audio", "Play", this?.dataset?.matomoTitle]);
+        _paq.push(["trackEvent", "Audio", "Play", audio.dataset.matomoTitle]);
       });
 
       audio.addEventListener("pause", () => {
-        _paq.push(["trackEvent", "Audio", "Pause", this?.dataset?.matomoTitle]);
+        _paq.push(["trackEvent", "Audio", "Pause", audio.dataset.matomoTitle]);
       });
 
       audio.addEventListener("ended", () => {
@@ -26,7 +26,7 @@ export default async () => {
           "trackEvent",
           "Audio",
           "Completed",
-          this?.dataset?.matomoTitle,
+          audio.dataset.matomoTitle,
         ]);
       });
     });
