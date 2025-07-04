@@ -74,7 +74,7 @@ Here's where you can find his work online.
           </div>
         </div>
         <div class="position-absolutex bottom-0 mt-3">
-          <audio controls class="w-100 mt-4">
+          <audio data-matomo-title="{{ song.title }}" controls class="w-100 mt-4">
             <source src="/assets/audio/{{ song.id }}.mp3" />
           </audio>
         </div>
