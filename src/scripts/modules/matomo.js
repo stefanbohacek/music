@@ -17,9 +17,9 @@ export default async () => {
         _paq.push(["trackEvent", "Audio", "Play", audio.dataset.matomoTitle]);
       });
 
-      audio.addEventListener("pause", () => {
-        _paq.push(["trackEvent", "Audio", "Pause", audio.dataset.matomoTitle]);
-      });
+      // audio.addEventListener("pause", () => {
+      //   _paq.push(["trackEvent", "Audio", "Pause", audio.dataset.matomoTitle]);
+      // });
 
       audio.addEventListener("ended", () => {
         _paq.push([
