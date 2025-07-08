@@ -18,6 +18,7 @@ eleventyNavigation:
 - [Radio Free Fedi](https://radiofreefedi.net/) and the Radio Free Fedi-inspired [Comfy Collaborations](https://nham.co.uk/2025/03/comfy-collaborations-album-review/)
 - [The Indie Beat Radio](https://theindiebeat.fm/)
 - [BlowUpRadio.com](https://blowupradio.com/den/2025/020325.html)
+- the Mirlo [*Double Time*](https://mirlo.space/team/release/double-time) compilation (as Secret Deal with [Sam](https://climatejustice.social/@ethicalrevolution) and [AxWax](https://chaos.social/@axwax))
 - the [NHAM Mixtape #6](https://nham.co.uk/2024/11/november-heralds-audio-masters-nham-mixtape-6/)
 - [Audio Interface's *Forgotten Futures*](https://www.audiointerface.org/shows/forgotten-futures/20241201/)
 - and [Ether Diver's *Other People's Music* mixtape ](https://www.etherdiver.com/2024/05/17/opm-four-flavors-of-electronic-and-one-weird-trip/)
