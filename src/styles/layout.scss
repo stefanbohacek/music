@@ -19,3 +19,10 @@ audio {
   margin: auto;
   object-fit: contain;
 }
+
+@media (min-width:768px) {
+  ul.column-list {
+    column-count: 2;
+    column-gap: 2rem;
+  }
+}

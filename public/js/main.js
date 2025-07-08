@@ -1,1 +1,1 @@
-import onReady from"./modules/onReady.js";import backToTop from"./modules/backToTop.js";import pauseOtherPlayers from"./modules/pauseOtherPlayers.js";onReady((()=>{backToTop(),pauseOtherPlayers()}));//# sourceMappingURL=main.js.map
+import onReady from"./modules/onReady.js";import backToTop from"./modules/backToTop.js";import matomo from"./modules/matomo.js";import pauseOtherPlayers from"./modules/pauseOtherPlayers.js";onReady((()=>{backToTop(),matomo(),pauseOtherPlayers()}));//# sourceMappingURL=main.js.map
