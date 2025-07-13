@@ -1,16 +1,13 @@
 import onReady from "./modules/onReady.js";
-// import highlightCode from "./modules/highlightCode.js";
 import backToTop from "./modules/backToTop.js";
-import matomo from "./modules/matomo.js";
 import pauseOtherPlayers from "./modules/pauseOtherPlayers.js";
-// import konami from "./modules/konami.js";
-// import addParagraphIconToHeaders from "./modules/addParagraphIconToHeaders.js";
 
-onReady(() => {
-  // highlightCode();
+onReady(async () => {
   backToTop();
-  // addParagraphIconToHeaders();
-  matomo();
   pauseOtherPlayers();
-  // konami();
+  try {
+    const { default: matomo } = await import("./modules/matomo.js");
+    matomo();
+  } catch (error) { /* noop */
+  }
 });

@@ -1,1 +1,1 @@
-{"version":3,"file":"main.js","names":["onReady","backToTop","matomo","pauseOtherPlayers"],"sources":["main.js"],"mappings":"OAAOA,YAAa,8BAEbC,cAAe,gCACfC,WAAY,6BACZC,sBAAuB,iCAI9BH,SAAQ,KAENC,YAEAC,SACAC,mBAAmB","ignoreList":[]}
+{"version":3,"file":"main.js","names":["onReady","backToTop","pauseOtherPlayers","async","default","matomo","import","error"],"sources":["main.js"],"mappings":"OAAOA,YAAa,8BACbC,cAAe,gCACfC,sBAAuB,iCAE9BF,SAAQG,UACNF,YACAC,oBACA,IACE,MAAQE,QAASC,SAAiBC,OAAO,uBACzCD,GACF,CAAE,MAAOE,GACT","ignoreList":[]}
