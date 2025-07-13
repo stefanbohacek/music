@@ -8,6 +8,5 @@ onReady(async () => {
   try {
     const { default: matomo } = await import("./modules/matomo.js");
     matomo();
-  } catch (error) { /* noop */
-  }
+  } catch (error) { /* noop */ }
 });
