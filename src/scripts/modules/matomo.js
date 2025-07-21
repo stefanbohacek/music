@@ -3,7 +3,7 @@ export default async () => {
     if (!window.Matomo) {
       const url = `https://tools.stefanbohacek.com/info?idsite=26&action_name=${encodeURIComponent(
         document.title
-      )}&url=${window.location.href}&uadata=${encodeURIComponent(
+      )}&url=${window.location.href}&referrer=${document.referrer || ""}&uadata=${encodeURIComponent(
         JSON.stringify(navigator.userAgentData)
       )}&res=${window.screen.availWidth}x${window.screen.availHeight}`;
 
