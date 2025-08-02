@@ -12,19 +12,16 @@ eleventyNavigation:
 
 <h2 id="biography" class="fs-1 mb-5 text-body"><a href="#biography">Biography</a></h2>
 
-
 [Stefan Bohacek](https://stefanbohacek.com/) <span class="text-muted">[stefn bo-haa-check]</span> is a music producer and composer currently living in New Jersey, USA. His music has been featured on:
 
-<ul class="column-list p-0">
-
-- [Radio Free Fedi](https://radiofreefedi.net/) and the Radio Free Fedi-inspired [Comfy Collaborations](https://nham.co.uk/2025/03/comfy-collaborations-album-review/)
-- [The Indie Beat Radio](https://theindiebeat.fm/)
-- [BlowUpRadio.com](https://blowupradio.com/den/2025/020325.html)
-- the Mirlo [*Double Time*](https://mirlo.space/team/release/double-time) compilation (as Secret Deal with [Sam](https://climatejustice.social/@ethicalrevolution) and [AxWax](https://chaos.social/@axwax))
-- the [NHAM Mixtape #6](https://nham.co.uk/2024/11/november-heralds-audio-masters-nham-mixtape-6/)
-- [Audio Interface's *Forgotten Futures*](https://www.audiointerface.org/shows/forgotten-futures/20241201/)
-- and [Ether Diver's *Other People's Music* mixtape ](https://www.etherdiver.com/2024/05/17/opm-four-flavors-of-electronic-and-one-weird-trip/)
-
+<ul class="column-list ps-4">
+  <li><a href="https://radiofreefedi.net/">Radio Free Fedi</a> and the Radio Free Fedi-inspired <a href="https://nham.co.uk/2025/03/comfy-collaborations-album-review/">Comfy Collaborations</a></li>
+  <li><a href="https://theindiebeat.fm/">The Indie Beat Radio</a></li>
+  <li><a href="https://blowupradio.com/den/2025/020325.html">BlowUpRadio.com</a></li>
+  <li>the Mirlo <a href="https://mirlo.space/team/release/double-time"><em>Double Time</em></a> compilation (as Secret Deal with <a href="https://climatejustice.social/@ethicalrevolution">Sam</a> and <a href="https://chaos.social/@axwax">AxWax</a>)</li>
+  <li>the <a href="https://nham.co.uk/2024/11/november-heralds-audio-masters-nham-mixtape-6/">NHAM Mixtape #6</a></li>
+  <li><a href="https://www.audiointerface.org/shows/forgotten-futures/20241201/">Audio Interface&#39;s <em>Forgotten Futures</em></a></li>
+  <li>and <a href="https://www.etherdiver.com/2024/05/17/opm-four-flavors-of-electronic-and-one-weird-trip/">Ether Diver&#39;s <em>Other People&#39;s Music</em> mixtape </a></li>
 </ul>
 
 Stefan is also a member of [Secret Deal](https://secretde.al/), a joint effort with Sam [@ethicalrevolution](https://climatejustice.social/@ethicalrevolution), and likes to participate in [music challenges](https://stefanbohacek.com/tag/music-challenges-and-contests/).
@@ -45,7 +42,6 @@ Here's where you can find his work online.
 - [Bandcamp](https://stefanbohacek.bandcamp.com/)
 - [Bandwagon](https://bandwagon.fm/@stefanbohacek)
 - [Mirlo](https://mirlo.space/stefan)
-
 
 </div>
 
