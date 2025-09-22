@@ -1,5 +1,51 @@
 [
   {
+    "title": "Your Way",
+    "id": "your-way",
+    "cover_art_description": "A dark photo of an old TV with static noise. The title of the album/song “Your Way” appears in a hand-written font below the TV.",
+    "links": [
+      {
+        "title": "SoundCloud",
+        "url": "https://soundcloud.com/stefanbohacek/your-way?in=stefanbohacek/sets/mixtape"
+      },
+      {
+        "title": "Bandcamp",
+        "url": "https://stefanbohacek.bandcamp.com/album/your-way"
+      },
+      {
+        "title": "Bandwagon",
+        "url": "https://bandwagon.fm/68c418685cdba960d609b9e2"
+      },
+      {
+        "title": "Mirlo",
+        "url": "https://mirlo.space/stefan/release/your-way"
+      }
+    ]
+  },
+  {
+    "title": "Goin' Nowhere",
+    "id": "goin-nowhere",
+    "cover_art_description": "The title of the album/song “Goin' Nowhere” superimposed over a photo of a winding road lined with trees on a foggy day.",
+    "links": [
+      {
+        "title": "SoundCloud",
+        "url": "https://soundcloud.com/stefanbohacek/goin-nowhere?in=stefanbohacek/sets/mixtape"
+      },
+      {
+        "title": "Bandcamp",
+        "url": "https://stefanbohacek.bandcamp.com/album/goin-nowhere"
+      },
+      {
+        "title": "Bandwagon",
+        "url": "https://bandwagon.fm/68ae469f42b67f5572439afd"
+      },
+      {
+        "title": "Mirlo",
+        "url": "https://mirlo.space/stefan/release/goin-nowhere"
+      }
+    ]
+  },
+  {
     "title": "Somebody",
     "id": "somebody",
     "cover_art_description": "A grainy, vertical, black-and-white close-up photo of a rose in a glass bottle. A dark shadow is cast on the wall behind the flower, splitting the background diagonally into dark and light parts. The title of the song/album 'Somebody' is written across the cover in thick letters using a hand-written font.",
@@ -42,52 +88,6 @@
       {
         "title": "Mirlo",
         "url": "https://mirlo.space/stefan/release/secret-places"
-      }
-    ]
-  },
-  {
-    "title": "Get Down",
-    "id": "get-down",
-    "cover_art_description": "The title of the album/song “Get Down” in a hand-written font superimposed over a colorful, tinted photo of a disco ball with visual effects applied.",
-    "links": [
-      {
-        "title": "SoundCloud",
-        "url": "https://soundcloud.com/stefanbohacek/get-down?in=stefanbohacek/sets/mixtape"
-      },
-      {
-        "title": "Bandcamp",
-        "url": "https://stefanbohacek.bandcamp.com/track/get-down"
-      },
-      {
-        "title": "Bandwagon",
-        "url": "https://bandwagon.fm/67b55b4c594e0cd573b48e62"
-      },
-      {
-        "title": "Mirlo",
-        "url": "https://mirlo.space/stefan/release/get-down"
-      }
-    ]
-  },
-  {
-    "title": "Don't Sweat It",
-    "id": "dont-sweat-it",
-    "cover_art_description": "The title of the album/song “Don't Sweat It” superimposed over a blurry, desaturated photo of a disco ball.",
-    "links": [
-      {
-        "title": "SoundCloud",
-        "url": "https://soundcloud.com/stefanbohacek/dont-sweat-it?in=stefanbohacek/sets/mixtape"
-      },
-      {
-        "title": "Bandcamp",
-        "url": "https://stefanbohacek.bandcamp.com/track/dont-sweat-it"
-      },
-      {
-        "title": "Bandwagon",
-        "url": "https://bandwagon.fm/66b15d8c137a3fc2e6d862cb"
-      },
-      {
-        "title": "Mirlo",
-        "url": "https://mirlo.space/stefan/release/dont-sweat-it"
       }
     ]
   },
