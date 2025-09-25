@@ -38,9 +38,9 @@ title: Home
         toggleDarkMode(window.matchMedia('(prefers-color-scheme: dark)').matches);
       });
     </script>
-    <header class="d-flex flex-wrap align-items-start">
+    <header class="d-flex flex-wrap align-items-center justify-content-center">
       <nav class="nav w-100">
-        <div class="container py-2 px-0 d-flex flex-wrap align-items-start">
+        <div class="container py-2 px-0 d-flex flex-wrap align-items-center justify-content-center">
           {% set navPages = collections.all | eleventyNavigation %}
           <ul class="nav  ">
             {% for item in navPages %}
