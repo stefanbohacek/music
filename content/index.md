@@ -63,7 +63,7 @@ eleventyNavigation:
   <li>and <a href="https://www.etherdiver.com/2024/05/17/opm-four-flavors-of-electronic-and-one-weird-trip/">Ether Diver&#39;s <em>Other People&#39;s Music</em> mixtape </a></li>
 </ul>
 
-Stefan is also a member of [Secret Deal](https://secretde.al/), a joint effort with Sam [@ethicalrevolution](https://climatejustice.social/@ethicalrevolution), and likes to participate in [music challenges](https://stefanbohacek.com/tag/music-challenges-and-contests/).
+Stefan is also a member of [Secret Deal](https://secretde.al/), a joint effort with Sam [@ethicalrevolution](https://climatejustice.social/@ethicalrevolution). Stefan likes to participate in [music challenges](https://stefanbohacek.com/tag/music-challenges-and-contests/) and manages the [Looptober community website](https://looptober.neocities.org/).
 
 <div class="text-center my-5">
   <a href="/assets/photos/stefan-on-a-boat-2019.jpg">
