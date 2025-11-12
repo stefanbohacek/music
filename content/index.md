@@ -32,7 +32,7 @@ eleventyNavigation:
             </p>
             <ul class="mt-3 ps-4">
               {% for link in song.links %}<li>
-                <a class="fs-9 text-body" href="{{ link.url }}">{{ link.title }}</a>
+                <a title="Listen on {{ link.title }}" class="fs-9 text-body" href="{{ link.url }}">{{ link.title }}</a>
               </li>{% endfor %}
             </ul>
           </div>
